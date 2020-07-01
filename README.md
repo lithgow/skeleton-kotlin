@@ -1,3 +1,3 @@
 # skeleton-kotlin
 
-![Gradle Build](https://github.com/lithgow/skeleton-kotlin/workflows/Gradle%20Build/badge.svg)
+![build](https://github.com/lithgow/skeleton-kotlin/workflows/build/badge.svg)
