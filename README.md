@@ -1,3 +1,3 @@
 # skeleton-kotlin
 
-![build](https://github.com/lithgow/skeleton-kotlin/workflows/build/badge.svg)
+[![build](../../workflows/build/badge.svg)](../../actions?query=workflow%3Abuild)
